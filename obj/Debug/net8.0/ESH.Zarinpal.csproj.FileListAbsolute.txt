@@ -1,0 +1,13 @@
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\bin\Debug\net8.0\ESH.Zarinpal.deps.json
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\bin\Debug\net8.0\ESH.Zarinpal.dll
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\bin\Debug\net8.0\ESH.Zarinpal.pdb
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ESH.Zarinpal.csproj.AssemblyReference.cache
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ESH.Zarinpal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ESH.Zarinpal.AssemblyInfoInputs.cache
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ESH.Zarinpal.AssemblyInfo.cs
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ESH.Zarinpal.csproj.CoreCompileInputs.cache
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ESH.Zarinpal.sourcelink.json
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ESH.Zarinpal.dll
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\refint\ESH.Zarinpal.dll
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ESH.Zarinpal.pdb
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\ESH.Zarinpal\obj\Debug\net8.0\ref\ESH.Zarinpal.dll
