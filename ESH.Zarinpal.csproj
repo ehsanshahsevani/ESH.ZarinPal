@@ -4,10 +4,25 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>ZarinPal Api Managment Dotnet 8</Title>
+        <Authors>Ehsan_Shahsevani</Authors>
+        <Description>Managment Api in Response And Request</Description>
+        <PackageProjectUrl>https://github.com/ehsanshahsevani/ESH.ZarinPal</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/ehsanshahsevani/ESH.ZarinPal</RepositoryUrl>
+        <PackageTags>Zarinpal</PackageTags>
+        <PackageIcon>DALL·E 2024-11-25 12.06.04 - A unique and modern payment-related icon, featuring a minimalist design with elements such as a credit card, digital currency symbols, and a secure lo.webp</PackageIcon>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="DALL·E 2024-11-25 12.06.04 - A unique and modern payment-related icon, featuring a minimalist design with elements such as a credit card, digital currency symbols, and a secure lo.webp">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
     </ItemGroup>
 
 </Project>

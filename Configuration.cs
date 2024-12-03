@@ -1,7 +1,6 @@
 ﻿using ESH.Zarinpal.DTO;
 using ESH.Zarinpal.ZarinpalResponse;
 using Newtonsoft.Json;
-
 namespace ESH.Zarinpal;
 
 public class Configuration(string merchantId, bool sandbox = true, string email = null, string mobile = null)
