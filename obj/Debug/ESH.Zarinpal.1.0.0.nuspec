@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ESH.Zarinpal</id>
+    <version>1.0.0</version>
+    <title>ZarinPal Api Managment Dotnet 8</title>
+    <authors>Ehsan_Shahsevani</authors>
+    <projectUrl>https://github.com/ehsanshahsevani/ESH.ZarinPal</projectUrl>
+    <description>Managment Api in Response And Request</description>
+    <tags>Zarinpal</tags>
+    <repository type="git" url="https://github.com/ehsanshahsevani/ESH.ZarinPal" commit="efd615051254972303ae57410d31733d57699218" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Projects\ESH_DLLs\ESH.Zarinpal\bin\Debug\net8.0\ESH.Zarinpal.dll" target="lib\net8.0\ESH.Zarinpal.dll" />
+  </files>
+</package>
