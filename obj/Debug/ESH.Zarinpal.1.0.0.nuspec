@@ -9,7 +9,7 @@
     <projectUrl>https://github.com/ehsanshahsevani/ESH.ZarinPal</projectUrl>
     <description>Managment Api in Response And Request</description>
     <tags>Zarinpal</tags>
-    <repository type="git" url="https://github.com/ehsanshahsevani/ESH.ZarinPal" commit="fe0a0bd7ada8895ab563c19e61b39077ffb2b85e" />
+    <repository type="git" url="https://github.com/ehsanshahsevani/ESH.ZarinPal" commit="8c124e7d571c6a4456a990e9320a7126f8f81391" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
