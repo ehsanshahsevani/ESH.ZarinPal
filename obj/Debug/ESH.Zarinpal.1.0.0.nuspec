@@ -5,10 +5,11 @@
     <version>1.0.0</version>
     <title>ZarinPal Api Managment Dotnet 8</title>
     <authors>Ehsan_Shahsevani</authors>
+    <icon>DALL·E 2024-11-25 12.06.04 - A unique and modern payment-related icon, featuring a minimalist design with elements such as a credit card, digital currency symbols, and a secure lo.webp</icon>
     <projectUrl>https://github.com/ehsanshahsevani/ESH.ZarinPal</projectUrl>
     <description>Managment Api in Response And Request</description>
     <tags>Zarinpal</tags>
-    <repository type="git" url="https://github.com/ehsanshahsevani/ESH.ZarinPal" commit="efd615051254972303ae57410d31733d57699218" />
+    <repository type="git" url="https://github.com/ehsanshahsevani/ESH.ZarinPal" commit="fe0a0bd7ada8895ab563c19e61b39077ffb2b85e" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
@@ -17,5 +18,6 @@
   </metadata>
   <files>
     <file src="E:\Projects\ESH_DLLs\ESH.Zarinpal\bin\Debug\net8.0\ESH.Zarinpal.dll" target="lib\net8.0\ESH.Zarinpal.dll" />
+    <file src="E:\Projects\ESH_DLLs\ESH.Zarinpal\DALL·E 2024-11-25 12.06.04 - A unique and modern payment-related icon, featuring a minimalist design with elements such as a credit card, digital currency symbols, and a secure lo.webp" target="DALL·E 2024-11-25 12.06.04 - A unique and modern payment-related icon, featuring a minimalist design with elements such as a credit card, digital currency symbols, and a secure lo.webp" />
   </files>
 </package>
