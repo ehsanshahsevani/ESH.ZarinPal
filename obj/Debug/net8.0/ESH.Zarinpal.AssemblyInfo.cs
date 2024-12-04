@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Managment Api in Response And Request")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28dd2fbd6ce2d5204bb676e14b8f86bd7e329b08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c419981ed7bfc1c43fcd21989dc4bd0af6661ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESH.Zarinpal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESH.Zarinpal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
